@@ -1,0 +1,35 @@
+body{
+    background-color: #22131d;
+    color: white !important;
+    /* position: relative;
+    /* z-index: -1; */
+} 
+#prouductdescribtion{
+    resize: none;
+}
+
+.table-striped>tbody>tr:nth-of-type(odd)>*{
+    color: white;
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+/* #particles-js{
+    width: 100%;
+    height: 100vh;
+    background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(../mo.jpg) ;
+    background-position: center center;
+    background-size: cover;
+    
+    z-index: -1;
+    position: absolute;
+}
+.row{
+    position: relative;
+    z-index: 12;
+} */
